@@ -1,0 +1,127 @@
+﻿ORDERNUMBER,QUANTITYORDERED,PRICEEACH,SALES,ORDERDATE,STATUS,QTR_ID,MONTHS,YEAR_ID,DESCRIPTION,EXPENSES,PRODUCTLINE,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,COUNTRY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10104,44,39.6,1742.4,1/31/2003 0:00,Shipped,1,,2003,Grocery shopping,50.25,Classic Cars,S24_2840,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,Spain,Freyre,Diego,Small
+10104,35,55.49,1942.15,1/31/2003 0:00,Shipped,1,,2003,Gasoline,35.8,Classic Cars,S24_1444,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,Spain,Freyre,Diego,Small
+10104,26,100,2921.62,1/31/2003 0:00,Shipped,1,,2003,Dinner with friends,65.5,Classic Cars,S24_4048,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,Spain,Freyre,Diego,Small
+10103,22,54.09,1189.98,1/29/2003 0:00,Shipped,1,,2003,Movie tickets,20,Trucks and Buses,S18_2432,Baane Mini Imports,07-98 9555,Erling Skakkes gate 78,,Stavern,,Norway,Bergulfsen,Jonas,Small
+10104,35,47.62,1666.7,1/31/2003 0:00,Shipped,1,,2003,Coffee break,4.5,Trucks and Buses,S32_2509,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,Spain,Freyre,Diego,Small
+,,,9462.85,,,,January,,,176.05,,,,,,,,,,,,
+10107,20,92.9,1858,2/24/2003 0:00,Shipped,1,,2003,Utility bill,120,Motorcycles,S32_1374,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,USA,Yu,Kwai,Small
+10107,29,70.87,2055.23,2/24/2003 0:00,Shipped,1,,2003,Lunch at restaurant,18.75,Motorcycles,S18_2625,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,USA,Yu,Kwai,Small
+10107,30,95.7,2871,2/24/2003 0:00,Shipped,1,,2003,Gym membership,50,Motorcycles,S10_1678,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,USA,Yu,Kwai,Small
+,,,6784.23,,,,February,,,188.75,,,,,,,,,,,,
+10109,29,32.1,930.9,3/10/2003 0:00,Shipped,1,,2003,Public transportation,15,Classic Cars,S24_2972,Motor Mint Distributors Inc.,2155559857,11328 Douglas Av.,,Philadelphia,PA,USA,Hernandez,Rosa,Small
+10110,29,59.37,1721.73,3/18/2003 0:00,Shipped,1,,2003,Car maintenance,80,Classic Cars,S24_1628,"AV Stores, Co.",(171) 555-1555,Fauntleroy Circus,,Manchester,,UK,Ashworth,Victoria,Small
+10108,26,68.35,1777.1,3/3/2003 0:00,Shipped,1,,2003,Mobile phone bill,60,Classic Cars,S18_3278,Cruz & Sons Co.,+63 2 555 3587,15 McCallum Street - NatWest Center #13-03,,Makati City,,Philippines,Cruz,Arnold,Small
+10108,30,63.07,1892.1,3/3/2003 0:00,Shipped,1,,2003,Home cleaning service,100,Classic Cars,S24_3371,Cruz & Sons Co.,+63 2 555 3587,15 McCallum Street - NatWest Center #13-03,,Makati City,,Philippines,Cruz,Arnold,Small
+10108,34,82.99,2821.66,3/3/2003 0:00,Shipped,1,,2003,Clothing purchase,70,Motorcycles,S50_4713,Cruz & Sons Co.,+63 2 555 3587,15 McCallum Street - NatWest Center #13-03,,Makati City,,Philippines,Cruz,Arnold,Small
+10108,43,67.77,2914.11,3/3/2003 0:00,Shipped,1,,2003,Home insurance,150,Motorcycles,S18_3782,Cruz & Sons Co.,+63 2 555 3587,15 McCallum Street - NatWest Center #13-03,,Makati City,,Philippines,Cruz,Arnold,Small
+10113,23,68.52,1575.96,3/26/2003 0:00,Shipped,1,,2003,Dinner party supplies,45,Trucks and Buses,S32_3522,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,USA,Nelson,Valarie,Small
+,,,13633.56,,,,March,,,520,,,,,,,,,,,,
+10114,24,30.06,721.44,4/1/2003 0:00,Shipped,2,,2003,Pet grooming,25,Classic Cars,S24_2840,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,France,Bertrand,Marie,Small
+10117,22,100,2780.58,4/16/2003 0:00,Shipped,2,,2003,Electronics,200,Classic Cars,S18_4027,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,Singapore,Natividad,Eric,Small
+10120,22,100,2461.36,4/29/2003 0:00,Shipped,2,,2003,Dinner with family,75.6,Motorcycles,S32_1374,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,Australia,Ferguson,Peter,Small
+10120,46,58.15,2674.9,4/29/2003 0:00,Shipped,2,,2003,Snacks,10,Motorcycles,S18_2625,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,Australia,Ferguson,Peter,Small
+10120,29,96.34,2793.86,4/29/2003 0:00,Shipped,2,,2003,Internet bill,80,Motorcycles,S10_2016,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,Australia,Ferguson,Peter,Small
+10120,34,83.79,2848.86,4/29/2003 0:00,Shipped,2,,2003,Lunch at work,12.5,Motorcycles,S24_2000,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,Australia,Ferguson,Peter,Small
+10114,28,55.73,1560.44,4/1/2003 0:00,Shipped,2,,2003,Movie tickets,18,Trucks and Buses,S32_2509,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,France,Bertrand,Marie,Small
+10115,27,100,2843.91,4/4/2003 0:00,Shipped,2,,2003,Travel expenses,250,Trucks and Buses,S50_1392,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,USA,Hernandez,Maria,Small
+10114,21,100,2925.09,4/1/2003 0:00,Shipped,2,,2003,Health insurance,200,Trucks and Buses,S24_2300,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,France,Bertrand,Marie,Small
+,,,21610.44,,,,April,,,871.1,,,,,,,,,,,,
+10122,39,30.96,1207.44,5/8/2003 0:00,Shipped,2,,2003,Charity donation,50,Classic Cars,S24_2972,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,France,Lebihan,Laurence,Small
+10124,23,57.73,1327.79,5/21/2003 0:00,Shipped,2,,2003,Dinner with friends,70.25,Classic Cars,S18_4933,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,USA,King,Sue,Small
+10122,21,73.17,1536.57,5/8/2003 0:00,Shipped,2,,2003,Gasoline,40,Classic Cars,S18_3278,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,France,Lebihan,Laurence,Small
+10122,34,50.21,1707.14,5/8/2003 0:00,Shipped,2,,2003,Office supplies,25.5,Classic Cars,S24_3371,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,France,Lebihan,Laurence,Small
+10124,22,77.9,1713.8,5/21/2003 0:00,Shipped,2,,2003,Lunch at cafe,15,Classic Cars,S24_1046,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,USA,King,Sue,Small
+10122,32,63.84,2042.88,5/8/2003 0:00,Shipped,2,,2003,Clothing purchase,60,Classic Cars,S12_3990,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,France,Lebihan,Laurence,Small
+10122,29,71.14,2063.06,5/8/2003 0:00,Shipped,2,,2003,Movie tickets,20,Classic Cars,S24_4620,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,France,Lebihan,Laurence,Small
+10122,20,100,2142,5/8/2003 0:00,Shipped,2,,2003,Home maintenance,150,Classic Cars,S12_4675,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,France,Lebihan,Laurence,Small
+10124,32,72.7,2326.4,5/21/2003 0:00,Shipped,2,,2003,Gym membership,55,Classic Cars,S24_2766,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,USA,King,Sue,Small
+10122,35,49.74,1740.9,5/8/2003 0:00,Shipped,2,,2003,Phone accessories,20,Motorcycles,S18_3782,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,France,Lebihan,Laurence,Small
+10121,25,86.74,2168.5,5/7/2003 0:00,Shipped,2,,2003,Public transportation,12,Motorcycles,S32_4485,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,France,Henriot,Paul,Small
+10121,32,76.88,2460.16,5/7/2003 0:00,Shipped,2,,2003,Dinner at restaurant,85,Motorcycles,S24_2360,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,France,Henriot,Paul,Small
+10121,34,81.35,2765.9,5/7/2003 0:00,Shipped,2,,2003,Music subscription,9.99,Motorcycles,S10_1678,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,France,Henriot,Paul,Small
+10126,26,62.7,1630.2,5/28/2003 0:00,Shipped,2,,2003,Dinner with colleagues,60,Trucks and Buses,S32_3522,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,Spain,Sommer,Mart¡n,Small
+10126,21,100,2439.57,5/28/2003 0:00,Shipped,2,,2003,Snacks,5,Trucks and Buses,S12_1666,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,Spain,Sommer,Mart¡n,Small
+10126,43,65.02,2795.86,5/28/2003 0:00,Shipped,2,,2003,Medical expenses,100,Trucks and Buses,S18_2432,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,Spain,Sommer,Mart¡n,Small
+,,,32068.17,,,,May,,,777.74,,,,,,,,,,,,
+10127,20,60.69,1213.8,6/3/2003 0:00,Shipped,2,,2003,Movie streaming service,12.99,Classic Cars,S24_1444,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,USA,Young,Jeff,Small
+10127,39,38.19,1489.41,6/3/2003 0:00,Shipped,2,,2003,Lunch with friends,20,Classic Cars,S24_2840,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,USA,Young,Jeff,Small
+10127,20,96.99,1939.8,6/3/2003 0:00,Shipped,2,,2003,Home decor,75,Classic Cars,S24_4048,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,USA,Young,Jeff,Small
+10133,23,100,2642.01,6/27/2003 0:00,Shipped,2,,2003,Car maintenance,70,Motorcycles,S32_1374,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,Spain,Freyre,Diego,Small
+10127,45,51.95,2337.75,6/3/2003 0:00,Shipped,2,,2003,Mobile phone bill,65,Trucks and Buses,S32_2509,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,USA,Young,Jeff,Small
+10127,24,100,2559.6,6/3/2003 0:00,Shipped,2,,2003,Dinner party supplies,40,Trucks and Buses,S12_4473,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,USA,Young,Jeff,Small
+,,,12182.37,,,,June,,,282.99,,,,,,,,,,,,
+10135,20,35.87,717.4,7/2/2003 0:00,Shipped,3,,2003,Pet supplies,30,Classic Cars,S24_2972,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,USA,Nelson,Valarie,Small
+10137,26,49.81,1295.06,7/10/2003 0:00,Shipped,3,,2003,Electronics,150,Classic Cars,S24_1628,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,France,Henriot,Paul,Small
+10135,27,66.13,1785.51,7/2/2003 0:00,Shipped,3,,2003,Dinner with family,90.5,Classic Cars,S24_3371,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,USA,Nelson,Valarie,Small
+10135,24,75.01,1800.24,7/2/2003 0:00,Shipped,3,,2003,Snacks,8,Classic Cars,S12_3990,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,USA,Nelson,Valarie,Small
+10135,23,87.31,2008.13,7/2/2003 0:00,Shipped,3,,2003,Internet bill,85,Classic Cars,S24_4620,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,USA,Nelson,Valarie,Small
+10135,29,97.89,2838.81,7/2/2003 0:00,Shipped,3,,2003,Lunch at work,10,Classic Cars,S12_4675,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,USA,Nelson,Valarie,Small
+10135,29,61.64,1787.56,7/2/2003 0:00,Shipped,3,,2003,Movie tickets,16,Motorcycles,S24_2360,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,USA,Nelson,Valarie,Small
+10134,30,61.78,1853.4,7/1/2003 0:00,Shipped,3,,2003,Travel expenses,300,Motorcycles,S18_2625,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,France,Da Cunha,Daniel,Small
+10135,45,50.36,2266.2,7/2/2003 0:00,Shipped,3,,2003,Health insurance,220,Motorcycles,S18_3782,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,USA,Nelson,Valarie,Small
+10135,30,89.8,2694,7/2/2003 0:00,Shipped,3,,2003,Charity donation,70,Motorcycles,S32_4485,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,USA,Nelson,Valarie,Small
+10134,20,100,2711.2,7/1/2003 0:00,Shipped,3,,2003,Dinner with friends,80.25,Motorcycles,S12_2823,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,France,Da Cunha,Daniel,Small
+10140,28,60.76,1701.28,7/24/2003 0:00,Shipped,3,,2003,Gasoline,45,Trucks and Buses,S32_3522,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,USA,Hirano,Juri,Small
+10140,26,100,2829.58,7/24/2003 0:00,Shipped,3,,2003,Office supplies,30,Trucks and Buses,S32_1268,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,USA,Hirano,Juri,Small
+10140,46,61.99,2851.54,7/24/2003 0:00,Shipped,3,,2003,Lunch at cafe,18,Trucks and Buses,S18_2432,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,USA,Hirano,Juri,Small
+,,,29139.91,,,,July,,,1152.75,,,,,,,,,,,,
+10141,21,42.43,891.03,8/1/2003 0:00,Shipped,3,,2003,Clothing purchase,50,Classic Cars,S24_2840,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,Finland,Suominen,Kalle,Small
+10141,20,54.33,1086.6,8/1/2003 0:00,Shipped,3,,2003,Movie tickets,25,Classic Cars,S24_1444,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,Finland,Suominen,Kalle,Small
+10145,31,35.8,1109.8,8/25/2003 0:00,Shipped,3,,2003,Home maintenance,180,Motorcycles,S32_2206,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,USA,Young,Julie,Small
+10145,30,49.67,1490.1,8/25/2003 0:00,Shipped,3,,2003,Gym membership,60,Motorcycles,S18_2625,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,USA,Young,Julie,Small
+10145,27,60.95,1645.65,8/25/2003 0:00,Shipped,3,,2003,Phone accessories,15,Motorcycles,S24_2360,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,USA,Young,Julie,Small
+10141,24,45.99,1103.76,8/1/2003 0:00,Shipped,3,,2003,Public transportation,10,Trucks and Buses,S32_2509,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,Finland,Suominen,Kalle,Small
+10141,21,100,2140.11,8/1/2003 0:00,Shipped,3,,2003,Dinner at restaurant,90,Trucks and Buses,S12_4473,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,Finland,Suominen,Kalle,Small
+,,,9467.05,,,,August,,,430,,,,,,,,,,,,
+10147,25,42.67,1066.75,9/5/2003 0:00,Shipped,3,,2003,Music subscription,9.99,Classic Cars,S24_2972,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,USA,Nelson,Allen,Small
+10151,30,40.31,1209.3,9/21/2003 0:00,Shipped,3,,2003,Dinner with colleagues,70,Classic Cars,S24_2840,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,Finland,Koskitalo,Pirkko,Small
+10147,21,63.84,1340.64,9/5/2003 0:00,Shipped,3,,2003,Snacks,6,Classic Cars,S12_3990,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,USA,Nelson,Allen,Small
+10148,25,60.26,1506.5,9/11/2003 0:00,Shipped,3,,2003,Medical expenses,110,Classic Cars,S24_1046,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,Australia,O'Hara,Anna,Small
+10148,21,73.6,1545.6,9/11/2003 0:00,Shipped,3,,2003,Movie streaming service,14.99,Classic Cars,S24_2766,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,Australia,O'Hara,Anna,Small
+10152,25,65.31,1632.75,9/25/2003 0:00,Shipped,3,,2003,Lunch with friends,25,Classic Cars,S24_1444,"Australian Gift Network, Co",61-7-3844-6555,31 Duncan St. West End,,South Brisbane,Queensland,Australia,Calaghan,Tony,Small
+10147,31,64.67,2004.77,9/5/2003 0:00,Shipped,3,,2003,Home decor,85,Classic Cars,S24_4620,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,USA,Nelson,Allen,Small
+10147,30,68.58,2057.4,9/5/2003 0:00,Shipped,3,,2003,Car maintenance,60,Classic Cars,S24_3371,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,USA,Nelson,Allen,Small
+10152,23,100,2802.09,9/25/2003 0:00,Shipped,3,,2003,Mobile phone bill,70,Classic Cars,S24_4048,"Australian Gift Network, Co",61-7-3844-6555,31 Duncan St. West End,,South Brisbane,Queensland,Australia,Calaghan,Tony,Small
+10147,23,100,2906.97,9/5/2003 0:00,Shipped,3,,2003,Dinner party supplies,35,Classic Cars,S24_3856,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,USA,Nelson,Allen,Small
+10151,41,63.85,2617.85,9/21/2003 0:00,Shipped,3,,2003,Pet supplies,40,Trucks and Buses,S32_2509,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,Finland,Koskitalo,Pirkko,Small
+10151,39,69.28,2701.92,9/21/2003 0:00,Shipped,3,,2003,Electronics,180,Trucks and Buses,S18_2432,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,Finland,Koskitalo,Pirkko,Small
+10150,49,58.18,2850.82,9/19/2003 0:00,Shipped,3,,2003,Dinner with family,100.5,Trucks and Buses,S32_3522,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,Singapore,Natividad,Eric,Small
+,,,26243.36,,,,September,,,806.48,,,,,,,,,,,,
+10159,35,35.4,1239,10/10/2003 0:00,Shipped,4,,2003,Snacks,7,Motorcycles,S32_2206,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,USA,Brown,Julie,Small
+10159,21,64.66,1357.86,10/10/2003 0:00,Shipped,4,,2003,Internet bill,90,Motorcycles,S18_3782,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,USA,Brown,Julie,Small
+10158,22,67.03,1474.66,10/10/2003 0:00,Shipped,4,,2003,Lunch at work,8,Motorcycles,S24_2000,Baane Mini Imports,07-98 9555,Erling Skakkes gate 78,,Stavern,,Norway,Bergulfsen,Jonas,Small
+10159,42,51.48,2162.16,10/10/2003 0:00,Shipped,4,,2003,Movie tickets,20,Motorcycles,S18_2625,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,USA,Brown,Julie,Small
+10159,27,80.34,2169.18,10/10/2003 0:00,Shipped,4,,2003,Travel expenses,280,Motorcycles,S24_2360,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,USA,Brown,Julie,Small
+10159,31,71.6,2219.6,10/10/2003 0:00,Shipped,4,,2003,Charity donation,80,Motorcycles,S50_4713,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,USA,Brown,Julie,Small
+10159,23,100,2347.15,10/10/2003 0:00,Shipped,4,,2003,Dinner with friends,85.25,Motorcycles,S32_4485,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,USA,Brown,Julie,Small
+10168,46,61.18,2814.28,10/28/2003 0:00,Shipped,4,,2003,Gasoline,50,Motorcycles,S18_2625,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,USA,Hirano,Juri,Small
+10165,31,71.1,2204.1,10/22/2003 0:00,Shipped,4,,2003,Office supplies,35,Trucks and Buses,S18_2432,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,Singapore,Natividad,Eric,Small
+10165,48,45.99,2207.52,10/22/2003 0:00,Shipped,4,,2003,Lunch at cafe,20,Trucks and Buses,S32_2509,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,Singapore,Natividad,Eric,Small
+,,,20195.51,,,,October,,,675.25,,,,,,,,,,,,
+10195,32,28.29,905.28,11/25/2003 0:00,Shipped,4,,2003,Clothing purchase,55,Classic Cars,S24_2840,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,USA,Frick,Steve,Small
+10192,30,30.59,917.7,11/20/2003 0:00,Shipped,4,,2003,Movie tickets,22,Classic Cars,S24_2972,Online Diecast Creations Co.,6035558647,2304 Long Airport Avenue,,Nashua,NH,USA,Young,Valarie,Small
+10176,29,100,2915.66,11/6/2003 0:00,Shipped,4,,2003,Home maintenance,200,Classic Cars,S24_4048,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,Italy,Moroni,Maurizio,Small
+10191,44,66.29,2916.76,11/20/2003 0:00,Shipped,4,,2003,Gym membership,65,Classic Cars,S24_4620,"Toms Spezialitten, Ltd",0221-5554327,Mehrheimerstr. 369,,Koln,,Germany,Pfalzheim,Henriette,Small
+10195,44,66.47,2924.68,11/25/2003 0:00,Shipped,4,,2003,Phone accessories,18,Classic Cars,S24_1444,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,USA,Frick,Steve,Small
+10169,26,39.83,1035.58,11/4/2003 0:00,Shipped,4,,2003,Public transportation,11,Motorcycles,S32_2206,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,Australia,O'Hara,Anna,Small
+10180,21,50.36,1057.56,11/11/2003 0:00,Shipped,4,,2003,Dinner at restaurant,95,Motorcycles,S18_3782,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,France,Rance,Martine,Small
+10190,46,32.99,1517.54,11/19/2003 0:00,Shipped,4,,2003,Music subscription,9.99,Motorcycles,S32_2206,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,Spain,Freyre,Diego,Small
+10180,34,45.46,1545.64,11/11/2003 0:00,Shipped,4,,2003,Dinner with colleagues,75,Motorcycles,S32_2206,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,France,Rance,Martine,Small
+10169,38,68.39,2598.82,11/4/2003 0:00,Shipped,4,,2003,Snacks,5.5,Motorcycles,S18_3782,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,Australia,O'Hara,Anna,Small
+10190,40,66.72,2668.8,11/19/2003 0:00,Shipped,4,,2003,Medical expenses,120,Motorcycles,S50_4713,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,Spain,Freyre,Diego,Small
+10169,38,74.11,2816.18,11/4/2003 0:00,Shipped,4,,2003,Movie streaming service,16.99,Motorcycles,S24_2360,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,Australia,O'Hara,Anna,Small
+10195,32,43.29,1385.28,11/25/2003 0:00,Shipped,4,,2003,Lunch with friends,22,Trucks and Buses,S32_2509,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,USA,Frick,Steve,Small
+10194,21,93.34,1960.14,11/25/2003 0:00,Shipped,4,,2003,Home decor,95,Trucks and Buses,S18_1097,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,France,Saveley,Mary,Small
+10183,21,96.84,2033.64,11/13/2003 0:00,Shipped,4,,2003,Car maintenance,80,Trucks and Buses,S18_1097,"Classic Gift Ideas, Inc",2155554695,782 First Street,,Philadelphia,PA,USA,Cervantes,Francisca,Small
+10184,33,62.77,2071.41,11/14/2003 0:00,Shipped,4,,2003,Mobile phone bill,75,Trucks and Buses,S32_2509,"Iberia Gift Imports, Corp.",(95) 555 82 82,"C/ Romero, 33",,Sevilla,,Spain,Roel,Jose Pedro,Small
+,,,31270.67,,,,November,,,965.48,,,,,,,,,,,,
+10203,21,37,777,12/2/2003 0:00,Shipped,4,,2003,Dinner party supplies,50,Classic Cars,S24_2972,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,Spain,Freyre,Diego,Small
+10207,42,29.7,1247.4,12/9/2003 0:00,Shipped,4,,2003,Pet supplies,45,Classic Cars,S24_2840,Diecast Collectables,6175552555,6251 Ingle Ln.,,Boston,MA,USA,Franco,Valarie,Small
+10207,28,100,2980.6,12/9/2003 0:00,Shipped,4,,2003,Electronics,200,Classic Cars,S24_4048,Diecast Collectables,6175552555,6251 Ingle Ln.,,Boston,MA,USA,Franco,Valarie,Small
+10201,25,73.88,1847,12/1/2003 0:00,Shipped,4,,2003,Dinner with family,110.5,Motorcycles,S24_2000,Mini Wheels Co.,6505555787,5557 North Pendale Street,,San Francisco,CA,USA,Murphy,Julie,Small
+10201,30,64.81,1944.3,12/1/2003 0:00,Shipped,4,,2003,Snacks,6.5,Motorcycles,S18_2625,Mini Wheels Co.,6505555787,5557 North Pendale Street,,San Francisco,CA,USA,Murphy,Julie,Small
+10201,22,98.57,2168.54,12/1/2003 0:00,Shipped,4,,2003,Internet bill,95,Motorcycles,S10_1678,Mini Wheels Co.,6505555787,5557 North Pendale Street,,San Francisco,CA,USA,Murphy,Julie,Small
+10207,27,60.06,1621.62,12/9/2003 0:00,Shipped,4,,2003,Lunch at work,7.5,Trucks and Buses,S32_2509,Diecast Collectables,6175552555,6251 Ingle Ln.,,Boston,MA,USA,Franco,Valarie,Small
+10207,28,94.92,2657.76,12/9/2003 0:00,Shipped,4,,2003,Movie tickets,18,Trucks and Buses,S50_1392,Diecast Collectables,6175552555,6251 Ingle Ln.,,Boston,MA,USA,Franco,Valarie,Small
+,,,15244.22,,,,December,,,532.5,,,,,,,,,,,,
