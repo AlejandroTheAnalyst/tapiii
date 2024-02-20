@@ -1,0 +1,50 @@
+﻿ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,EXPENSES,ORDERDATE,STATUS,QTR_ID,MONTHS,YEAR_ID,PRODUCTLINE,CUSTOMERNAME,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10210,34,100,1,6123.4,2610.4,1/12/2004 0:00,Shipped,1,January,2004,Motorcycles,Osaka Souveniers Co.,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium
+10215,35,100,3,6075.3,2562.3,1/29/2004 0:00,Shipped,1,January,2004,Classic Cars,West Coast Collectables Co.,3675 Furth Circle,,Burbank,CA,94019,USA,NA,Thompson,Steve,Medium
+10103,26,100,11,5404.62,1891.62,1/29/2003 0:00,Shipped,1,January,2003,Classic Cars,Baane Mini Imports,Erling Skakkes gate 78,,Stavern,,4110,Norway,EMEA,Bergulfsen,Jonas,Medium
+10211,41,100,14,4708.44,1195.44,1/15/2004 0:00,Shipped,1,January,2004,Motorcycles,Auto Canal Petit,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10369,41,100,2,4514.92,1001.92,1/20/2005 0:00,Shipped,1,January,2005,Classic Cars,Collectables For Less Inc.,7825 Douglas Av.,,Brickhaven,MA,58339,USA,NA,Nelson,Allen,Medium
+10210,23,100,2,3009.09,311.09,1/12/2004 0:00,Shipped,1,January,2004,Motorcycles,Osaka Souveniers Co.,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium
+10223,49,100,3,9774.03,6261.03,2/20/2004 0:00,Shipped,1,February,2004,Motorcycles,"Australian Collectors, Co.",636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Large
+10381,36,100,3,8254.8,4741.8,2/17/2005 0:00,Shipped,1,February,2005,Classic Cars,Corporate Gift Ideas Co.,7734 Strong St.,,San Francisco,CA,,USA,NA,Brown,Julie,Large
+10107,27,100,4,6065.55,2552.55,2/24/2003 0:00,Shipped,1,February,2003,Motorcycles,Land of Toys Inc.,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium
+10223,47,100,4,5422.39,1909.39,2/20/2004 0:00,Shipped,1,February,2004,Motorcycles,"Australian Collectors, Co.",636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10374,39,100,5,5288.01,1775.01,2/2/2005 0:00,Shipped,1,February,2005,Motorcycles,"Australian Gift Network, Co",31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Medium
+10223,37,100,1,3965.66,452.66,2/20/2004 0:00,Shipped,1,February,2004,Motorcycles,"Australian Collectors, Co.",636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10107,39,99.91,5,3896.49,383.49,2/24/2003 0:00,Shipped,1,February,2003,Motorcycles,Land of Toys Inc.,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium
+10107,30,95.7,2,2871,173,2/24/2003 0:00,Shipped,1,February,2003,Motorcycles,Land of Toys Inc.,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Small
+10375,21,34.91,12,733.11,197.11,2/3/2005 0:00,Shipped,1,February,2005,Motorcycles,La Rochelle Gifts,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10112,29,100,1,7209.11,3696.11,3/24/2003 0:00,Shipped,1,March,2003,Classic Cars,"Volvo Model Replicas, Co",Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Large
+10120,46,100,2,9264.86,5751.86,4/29/2003 0:00,Shipped,2,April,2003,Motorcycles,"Australian Collectors, Co.",636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Large
+10237,39,100,9,7023.9,3510.9,4/5/2004 0:00,Shipped,2,April,2004,Motorcycles,Vitachrome Inc.,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Large
+10402,45,100,1,5833.8,2320.8,4/7/2005 0:00,Shipped,2,April,2005,Motorcycles,Auto Canal Petit,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
+10236,22,100,1,2852.08,154.08,4/3/2004 0:00,Shipped,2,April,2004,Motorcycles,Motor Mint Distributors Inc.,11328 Douglas Av.,,Philadelphia,PA,71270,USA,NA,Hernandez,Rosa,Small
+10120,29,96.34,3,2793.86,95.86,4/29/2003 0:00,Shipped,2,April,2003,Motorcycles,"Australian Collectors, Co.",636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10403,24,100,7,2434.56,1898.56,4/8/2005 0:00,Shipped,2,April,2005,Motorcycles,"UK Collectables, Ltd.",Berkeley Gardens 12  Brewery,,Liverpool,,WX1 6LT,UK,EMEA,Devon,Elizabeth,Small
+10237,23,100,7,2333.12,1797.12,4/5/2004 0:00,Shipped,2,April,2004,Motorcycles,Vitachrome Inc.,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10263,41,100,4,8336.94,4823.94,6/28/2004 0:00,Shipped,2,June,2004,Motorcycles,Gift Depot Inc.,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,NA,King,Julie,Large
+10258,32,100,6,7680.64,4167.64,6/15/2004 0:00,Shipped,2,June,2004,Classic Cars,"Tokyo Collectables, Ltd",2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Large
+10263,40,100,5,4472,959,6/28/2004 0:00,Shipped,2,June,2004,Motorcycles,Gift Depot Inc.,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,NA,King,Julie,Medium
+10263,34,100,2,3676.76,163.76,6/28/2004 0:00,Shipped,2,June,2004,Motorcycles,Gift Depot Inc.,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,NA,King,Julie,Medium
+10140,37,100,11,7374.1,3861.1,7/24/2003 0:00,Shipped,3,July,2003,Classic Cars,Technics Stores Inc.,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Large
+10134,31,100,4,7023.98,3510.98,7/1/2003 0:00,Shipped,3,July,2003,Motorcycles,Lyon Souveniers,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Large
+10275,36,100,3,6901.92,3388.92,7/23/2004 0:00,Shipped,3,July,2004,Motorcycles,La Rochelle Gifts,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10270,21,100,9,4905.39,1392.39,7/19/2004 0:00,Shipped,3,July,2004,Classic Cars,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10275,45,92.83,1,4177.35,664.35,7/23/2004 0:00,Shipped,3,July,2004,Motorcycles,La Rochelle Gifts,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10134,41,94.74,2,3884.34,371.34,7/1/2003 0:00,Shipped,3,July,2003,Motorcycles,Lyon Souveniers,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10134,27,100,5,3307.77,246.77,7/1/2003 0:00,Shipped,3,July,2003,Motorcycles,Lyon Souveniers,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10275,22,100,4,2904.44,206.44,7/23/2004 0:00,Shipped,3,July,2004,Motorcycles,La Rochelle Gifts,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10280,34,100,2,8014.82,4501.82,8/17/2004 0:00,Shipped,3,August,2004,Classic Cars,Amica Models & Co.,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Large
+10285,47,100,9,6484.59,2971.59,8/27/2004 0:00,Shipped,3,August,2004,Motorcycles,Marta's Replicas Co.,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,NA,Hernandez,Marta,Medium
+10285,27,100,8,5438.07,1925.07,8/27/2004 0:00,Shipped,3,August,2004,Motorcycles,Marta's Replicas Co.,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,NA,Hernandez,Marta,Medium
+10145,37,100,9,5192.95,1679.95,8/25/2003 0:00,Shipped,3,August,2003,Motorcycles,Toys4GrownUps.com,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Medium
+10145,33,100,8,5176.38,1663.38,8/25/2003 0:00,Shipped,3,August,2003,Motorcycles,Toys4GrownUps.com,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Medium
+10285,36,100,6,4099.68,586.68,8/27/2004 0:00,Shipped,3,August,2004,Motorcycles,Marta's Replicas Co.,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,NA,Hernandez,Marta,Medium
+10145,45,83.26,6,3746.7,233.7,8/25/2003 0:00,Shipped,3,August,2003,Motorcycles,Toys4GrownUps.com,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Medium
+10206,47,100,6,9064.89,5551.89,12/5/2003 0:00,Shipped,4,December,2003,Classic Cars,Canadian Gift Exchange Network,1900 Oak St.,,Vancouver,BC,V3F 2K1,Canada,NA,Tannamuri,Yoshi,Large
+10201,49,100,4,8065.89,4552.89,12/1/2003 0:00,Shipped,4,December,2003,Motorcycles,Mini Wheels Co.,5557 North Pendale Street,,San Francisco,CA,,USA,NA,Murphy,Julie,Large
+10357,32,100,10,5691.84,2178.84,12/10/2004 0:00,Shipped,4,December,2004,Classic Cars,Mini Gifts Distributors Ltd.,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10201,24,100,5,3025.92,327.92,12/1/2003 0:00,Shipped,4,December,2003,Motorcycles,Mini Wheels Co.,5557 North Pendale Street,,San Francisco,CA,,USA,NA,Murphy,Julie,Medium
+10201,22,98.57,2,2168.54,1632.54,12/1/2003 0:00,Shipped,4,December,2003,Motorcycles,Mini Wheels Co.,5557 North Pendale Street,,San Francisco,CA,,USA,NA,Murphy,Julie,Small
+10361,20,72.55,13,1451,915,12/17/2004 0:00,Shipped,4,December,2004,Motorcycles,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10361,26,51.15,8,1329.9,793.9,12/17/2004 0:00,Shipped,4,December,2004,Motorcycles,Souveniers And Things Co.,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
